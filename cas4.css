@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+}
+.naslov {
+  margin-left: 200px;
+  width: 400px;
+  background-color: red;
+}
+.prvi-paragraf {
+  margin-left: 200px;
+  background-color: blue;
+  width: 400px;
+}
+.drugi-paragraf {
+  margin-left: 200px;
+  background-color: blue;
+  width: 400px;
+}
+.zajednickaklasa {
+  margin-left: 200px;
+  width: 400px;
+  background-color: blue;
+}
+#crveni-background {
+  background-color: red;
+}
+.drugiblok {
+  margin-left: 500px;
+  background-color: red;
+  width: 400px;
+}
+img {
+  margin-left: 500px;
+}
+.prviDiv {
+  margin-left: 500px;
+  background-color: blue;
+  width: 400px;
+  text-align: center;
+  color: green;
+}
+.drugiDiv {
+  margin-left: 600px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 300px;
+  margin-top: 100px;
+}
+.drugiDiv img {
+  height: 150px;
+  width: 150px;
+}
+
+
