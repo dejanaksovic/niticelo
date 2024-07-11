@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.naslov {
+  margin-top: 50px;
+  text-align: center;
+}
+.proba {
+  width: 500px;
+  height: 300px;
+  background-color: blue;
+  margin-top: 150px;
+  margin-left: 150px;
+  padding-top: 150px;
+  padding-left: 150px;
+  box-sizing: border-box;
+}
+.navigacija{
+  height: 150px;
+  box-sizing: border-box;
+  text-align: right;
+  font-size: 0px;
+}
+.navigacija a{
+  display: inline-block;
+  width: 250px;
+  background-color: brown;
+  color: white;
+  height: 150px;
+  text-align: center;
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 5%;
+  font-size: 20px;
+  border-right: 2px solid green;
+}
+.navigacija a:hover {
+  width: 600px;
+  font: 30px;
+  color: yellow;
+  transition: 0.3s;
+}
